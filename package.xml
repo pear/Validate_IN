@@ -16,7 +16,7 @@
   <active>yes</active>
  </lead>
  <date>2011-11-27</date>
- <time>02:06:38</time>
+ <time>14:22:57</time>
  <version>
   <release>0.1.1</release>
   <api>0.1.0</api>
@@ -34,6 +34,7 @@ Bug #12066	no test present for region method
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
+   <file baseinstalldir="/" md5sum="af93695cedcfa8d67cebea8b380aff96" name="tests/validate_IN_region.phpt" role="test" />
    <file baseinstalldir="/" md5sum="9c7a47bd088b67cb878b5380ea33c7d0" name="Validate/IN.php" role="php" />
    <file baseinstalldir="/" md5sum="f8790e48b597dff12a643e08e9be3fab" name="LICENSE" role="data" />
   </dir>
